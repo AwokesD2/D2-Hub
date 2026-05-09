@@ -84,6 +84,7 @@ Se seus binds forem diferentes, entre no menu **Settings** e altere os binds par
 ### Rocket Fly
 
 O menu **Rocket Fly** executa uma sequencia rapida de click, movimento do rocket e granada.
+
 Recomendado uma rocket com velocidade a partir de 40 exemplo: (Gjallahorn)
 
 - Atalho padrao: `B`
