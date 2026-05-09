@@ -84,6 +84,7 @@ Se seus binds forem diferentes, entre no menu **Settings** e altere os binds par
 ### Rocket Fly
 
 O menu **Rocket Fly** executa uma sequencia rapida de click, movimento do rocket e granada.
+Recomendado uma rocket com velocidade a partir de 40 exemplo: (Gjallahorn)
 
 - Atalho padrao: `B`
 - Deteccao padrao: `10.0`
@@ -172,6 +173,7 @@ If your binds are different, open **Settings** and change them to match your Des
 ### Rocket Fly
 
 The **Rocket Fly** menu runs a quick sequence with click, rocket movement, and grenade.
+Recommended rocket with velocity base 40 example: (Gjallahorn)
 
 - Default shortcut: `B`
 - Default detection: `10.0`
