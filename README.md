@@ -173,6 +173,7 @@ If your binds are different, open **Settings** and change them to match your Des
 ### Rocket Fly
 
 The **Rocket Fly** menu runs a quick sequence with click, rocket movement, and grenade.
+
 Recommended rocket with velocity base 40 example: (Gjallahorn)
 
 - Default shortcut: `B`
@@ -196,9 +197,10 @@ Settings are saved in:
 
 ## Important notes
 
-- This is an unofficial community tool.
+- This is an unofficial tool.
 - Use responsibly.
 - The author is not responsible for anything that happens to your account.
+- Any bugs found should be reported to Awoke on discord or using github bug tracer
 
 ## Credits
 
