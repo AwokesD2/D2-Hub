@@ -2,12 +2,12 @@
 
 **Destiny 2 Hub** is a Windows desktop app with configurable shortcuts for Destiny 2 movement macros and tools.
 
-This public repository contains only the installer and this README. The source code is not published here.
-
 ## Download
 
 Download and run:
 
+
+.net sdk 8.0: https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/sdk-8.0.420-windows-x64-installer
 [Destiny2HubSetup.exe](Destiny2HubSetup.exe)
 
 If Windows shows a security warning, choose to keep/run the file only if you downloaded it from this official repository:
