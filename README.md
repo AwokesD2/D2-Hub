@@ -8,7 +8,9 @@ Download and run:
 
 
 .net sdk 8.0: https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/sdk-8.0.420-windows-x64-installer
-[Destiny2HubSetup.exe](Destiny2HubSetup.exe)
+
+[Destiny2HubSetup.exe](https://github.com/AwokesD2/D2-Hub/releases/download/v1.0.0/Destiny2HubSetup.exe)
+
 
 If Windows shows a security warning, choose to keep/run the file only if you downloaded it from this official repository:
 
